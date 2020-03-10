@@ -1,2 +1,2 @@
 # tutorial_github
-Arisaman belajar github
+Arisman belajar github
